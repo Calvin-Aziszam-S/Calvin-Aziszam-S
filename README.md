@@ -9,4 +9,4 @@ An Electrical Engineering graudated whose struggling to be a Data Scientist.
 
 My recent post on Medium!
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aziszamcalvin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aziszamcalvin/0" alt="Recent Article 0"> 
+
